@@ -11,3 +11,6 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  astral-enfant
 */
+.couleurtext{
+    background-color: rgb(199, 23, 175);
+}
